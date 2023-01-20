@@ -11,3 +11,8 @@ Video Link of Project - https://youtu.be/u5EoIVKd2_M
 <h1>Nitin Certificate</h1>
 
 ![Alt text](https://github.com/NitinSingh8/N-Programmer/blob/main/certificate/Certificate_tech-a-thon.jpeg "Some Error Occur")
+
+
+<h1>Abdullah Certificate</h1>
+
+![Alt text](https://github.com/AdullahRazi/tech-a-thon/blob/main/ad_cert_3_page-0001.jpg "Some Error Occur")

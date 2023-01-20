@@ -16,3 +16,14 @@ Video Link of Project - https://youtu.be/u5EoIVKd2_M
 <h1>Abdullah Certificate</h1>
 
 ![Alt text](https://github.com/AdullahRazi/tech-a-thon/blob/main/ad_cert_3_page-0001.jpg "Some Error Occur")
+
+
+
+<h1>Akshay Rahul Certificate</h1>
+
+![Alt text](https://github.com/AKR20/TECH-A-THON-2022/blob/main/IMG_20220908_133054%20(1).jpg "Some Error Occur")
+
+
+<h1>Utkarsh Jain Certificate</h1>
+
+![Alt text](https://user-images.githubusercontent.com/77992826/211374019-bd8644d7-f2c0-4d2c-8296-0f4bceeef0d6.png "Some Error Occur")
